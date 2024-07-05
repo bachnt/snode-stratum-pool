@@ -35,7 +35,7 @@
         "async": "*",
         "merkle-bitcoin": "^1.0.2",
         "bitcoinjs-lib-zcash": "git+https://github.com/fkfk/bitcoinjs-lib-zcash.git",
-        "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git",
+        "bitgo-utxo-lib": "git+https://github.com/bachnt/bitgo-utxo-lib.git",
         "promise": "*"
     },
     "engines": {
