@@ -30,13 +30,11 @@
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/HorizenOfficial/equihashverify",
-        "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
         "merkle-bitcoin": "^1.0.2",
         "bitcoinjs-lib-zcash": "git+https://github.com/fkfk/bitcoinjs-lib-zcash.git",
-        "verushash": "git+https://github.com/VerusCoin/verushash-node#e6572f345b8c24e4a1212f6c9eb66c1c400d83e1",
         "promise": "*"
     },
     "engines": {
