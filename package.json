@@ -36,6 +36,7 @@
         "merkle-bitcoin": "^1.0.2",
         "bitcoinjs-lib-zcash": "git+https://github.com/fkfk/bitcoinjs-lib-zcash.git",
         "bitgo-utxo-lib": "git+https://github.com/bachnt/bitgo-utxo-lib.git",
+        "verushash": "git+https://github.com/VerusCoin/verushash-node#e6572f345b8c24e4a1212f6c9eb66c1c400d83e1",
         "promise": "*"
     },
     "engines": {
