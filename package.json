@@ -29,7 +29,7 @@
         "url": "https://github.com/s-nomp/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/HorizenOfficial/equihashverify",
+        "equihashverify": "git+https://github.com/s-nomp/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
